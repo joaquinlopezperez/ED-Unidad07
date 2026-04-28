@@ -1,0 +1,113 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9">
+  <diagram name="Página-1" id="twgm3cvHS4wZ28MMc5ry">
+    <mxGraphModel dx="1188" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vOJaRXBtEnS-iVzM7maM-1" value=":Usuario" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="30" y="70" width="100" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="vOJaRXBtEnS-iVzM7maM-4" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="vOJaRXBtEnS-iVzM7maM-1">
+          <mxGeometry x="45" y="60" width="10" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="vOJaRXBtEnS-iVzM7maM-2" value=":Maquina" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="260" y="70" width="100" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="vOJaRXBtEnS-iVzM7maM-6" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="vOJaRXBtEnS-iVzM7maM-2">
+          <mxGeometry x="50" y="55" width="10" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="vOJaRXBtEnS-iVzM7maM-11" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="vOJaRXBtEnS-iVzM7maM-2">
+          <mxGeometry x="50" y="210" width="10" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="vOJaRXBtEnS-iVzM7maM-28" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="vOJaRXBtEnS-iVzM7maM-2">
+          <mxGeometry x="50" y="140" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vOJaRXBtEnS-iVzM7maM-3" value=":Banco" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="520" y="70" width="100" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="vOJaRXBtEnS-iVzM7maM-9" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="vOJaRXBtEnS-iVzM7maM-3">
+          <mxGeometry x="50" y="140" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vOJaRXBtEnS-iVzM7maM-5" value="Selecciona destino" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1" target="vOJaRXBtEnS-iVzM7maM-6">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="90" y="140" as="sourcePoint" />
+            <mxPoint x="250" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vOJaRXBtEnS-iVzM7maM-8" value="Mostrar precio" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" edge="1" source="vOJaRXBtEnS-iVzM7maM-6" parent="1" target="vOJaRXBtEnS-iVzM7maM-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vOJaRXBtEnS-iVzM7maM-12" value="Introduce monedas" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="290" as="sourcePoint" />
+            <mxPoint x="310" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vOJaRXBtEnS-iVzM7maM-19" value="Calcular precio" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="vOJaRXBtEnS-iVzM7maM-6" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="315" y="130" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="345" y="130" />
+              <mxPoint x="345" y="160" />
+            </Array>
+            <mxPoint x="330" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vOJaRXBtEnS-iVzM7maM-20" value="Validar PIN" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1" target="vOJaRXBtEnS-iVzM7maM-9">
+          <mxGeometry x="0.0025" relative="1" as="geometry">
+            <mxPoint x="580" y="220" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="610" y="220" />
+              <mxPoint x="610" y="240" />
+            </Array>
+            <mxPoint x="585" y="250" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vOJaRXBtEnS-iVzM7maM-21" value="Ver cambio" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="290" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="350" y="290" />
+              <mxPoint x="350" y="320" />
+            </Array>
+            <mxPoint x="320" y="320.02857142857135" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vOJaRXBtEnS-iVzM7maM-29" value="Introduce tarjeta" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1" target="vOJaRXBtEnS-iVzM7maM-2">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="90" y="220" as="sourcePoint" />
+            <mxPoint x="150" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vOJaRXBtEnS-iVzM7maM-30" value="Lee tarjeta" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1" target="vOJaRXBtEnS-iVzM7maM-9">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="320" y="220" as="sourcePoint" />
+            <mxPoint x="380" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vOJaRXBtEnS-iVzM7maM-31" value="Tarjeta validada" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="vOJaRXBtEnS-iVzM7maM-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="240" as="sourcePoint" />
+            <mxPoint x="490" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vOJaRXBtEnS-iVzM7maM-32" value="Devuelve tarjeta" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="vOJaRXBtEnS-iVzM7maM-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="240" as="sourcePoint" />
+            <mxPoint x="90" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vOJaRXBtEnS-iVzM7maM-33" value="Entrega cambio y billete" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="vOJaRXBtEnS-iVzM7maM-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="350" as="sourcePoint" />
+            <mxPoint x="90" y="350" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
